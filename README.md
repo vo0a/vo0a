@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-<div>
+<div display=inline-block>
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vo0a&show_icons=true&theme=dracula)
 
