@@ -26,17 +26,12 @@ Here are some ideas to get you started:
   
 </div>
 
-<div align=center>
-  
-  
-  
-</div>
 
 <!-- 
 <div align=center>
+  
+  // 한 칸씩 공백두고 여기에 작성해야 됨. 안그러면 div 안먹힘
+  
+</div>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vo0a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
